@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Environments
+.env
+venv/
+.env.bak
+env/
+
+# Data
+raw/
+*.csv
+*.json
+
+# Docker
+*.log
+*.pid
+*.tar
+*.sock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# AWS credentials
+*.pem
+aws_config/
